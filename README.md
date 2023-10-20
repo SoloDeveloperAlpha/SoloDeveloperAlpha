@@ -1,11 +1,7 @@
-<h1 align="center">Hola 👋, me llamo Walter Astudillo (SoloDeveloperAlpha en GitHub)😎</h1>
+<h1 align="center">Hola 👋, me llamo Walter Astudillo 😎</h1>
 <h3 align="center">Futuro Desarrollador Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solodeveloperalpha&label=Profile%20views&color=0e75b6&style=flat" alt="solodeveloperalpha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solodeveloperalpha" alt="solodeveloperalpha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/waltcodex" target="blank"><img src="https://img.shields.io/twitter/follow/waltcodex?logo=twitter&style=for-the-badge" alt="waltcodex" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Javascript(completo),manejo de API, JSON etc**
 
@@ -24,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solodeveloperalpha&show_icons=true&locale=en" alt="solodeveloperalpha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solodeveloperalpha&" alt="solodeveloperalpha" /></p>
