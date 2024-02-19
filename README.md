@@ -68,7 +68,7 @@ Lenguajes y Herramientas🛠:
 
 ---
 
-### Github Activity ✔:
+### Actividad GitHub ✔:
 
 <a href="https://github.com/SoloDeveloperAlpha">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloDeveloperAlpha&theme=tokyonight" />
@@ -82,7 +82,7 @@ Lenguajes y Herramientas🛠:
 <br/>
 <br/>
 
-### My Projects ✨:
+### Mis Proyectos ✨:
   
 <a href="https://github.com/SoloDeveloperAlpha/LocalWeather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=LocalWeather&theme=tokyonight" />
@@ -107,18 +107,6 @@ Lenguajes y Herramientas🛠:
 <a href="https://solodeveloperalpha.github.io/Checkout-Page-mst/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=Checkout-Page-mst&theme=tokyonight" />
 </a>
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
 
 <div align="center">
   
