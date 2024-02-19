@@ -5,7 +5,7 @@ Después de la pandemia🦠, decidí enfocarme más en el desarrollo web, compre
 Mi objetivo principal es construir proyectos digitales para clientes interesados en llevar su marca al mundo🌐 online.<br/>
 En mi tiempo libre, me gusta editar videos y disfrutar de música 😎indie mientras entreno en el gimnasio 🏋️, buscando equilibrar el desarrollo mental y físico.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="400" height="280" />
 
 - 🔭 Estoy interesado en el desarrollo Front-end.
 - 🌱 Estoy aprendiendo el uso de nuevas herramientas para mantenerme actualizado.
@@ -14,7 +14,7 @@ En mi tiempo libre, me gusta editar videos y disfrutar de música 😎indie mien
 - 🍵 ¿Gustas un poco de codigo?
 - 😄 Me interesa mucho las nuevas tecnologias.
 - ⚡ Cosas Divertidas: Programas cosas nuevas y conocer gente nueva que le interese esto.
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekib)
 <br/>
 
 ---
@@ -37,23 +37,6 @@ Lenguajes y Herramientas🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
-
----
-
-<details>
-<summary> Hackathons 💻: </summary>
-  
-<br/>
-
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
-NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
-ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
-
 </details>
 
 ---
@@ -87,12 +70,12 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+<a href="https://github.com/SoloDeveloperAlpha">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloDeveloperAlpha&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/SoloDeveloperAlpha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloDeveloperAlpha&show_icons=true&theme=tokyonight&line_height=27" alt="Walter github stats"/>
 </a>
 
 <br/>
@@ -101,28 +84,28 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/SoloDeveloperAlpha/LocalWeather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=LocalWeather&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/SoloDeveloperAlpha/SpotiRew">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=SpotiRew&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/SoloDeveloperAlpha/pokeDexter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=pokeDexter&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+<a href="https://github.com/SoloDeveloperAlpha/Simple-Calc">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=Simple-Calc&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+<a href="https://github.com/SoloDeveloperAlpha/Edie-Homepage-master">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=Edie-Homepage-master&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://solodeveloperalpha.github.io/Checkout-Page-mst/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloDeveloperAlpha&repo=Checkout-Page-mst&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:
@@ -140,10 +123,7 @@ Text         9 mins          █░░░░░░░░░░░░░░░░
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### 💻🎮🚀 You can Code too 🚀🎮💻
 
 </div>
 -----
-Credits: [Davekibh](https://github.com/Davekibh)
-
-Last Edited on: 15/01/2021
