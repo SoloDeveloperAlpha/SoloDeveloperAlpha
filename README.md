@@ -1,4 +1,4 @@
-[![ProfileBanner](https://photos.app.goo.gl/2wRDXn8hHEJp6XZRA)](https://solodeveloperalpha.github.io/walt-port-v2/build/)
+[![ProfileBanner](https://mega.nz/file/kBNRgSJL#JpQlw9RGCFVb8QJ7cEf66d0YHG4edtDL6inWhP2KUNY)](https://solodeveloperalpha.github.io/walt-port-v2/build/)
 
 ### Acerca de mi🧑:
 Después de la pandemia🦠, decidí enfocarme más en el desarrollo web, comprendiendo la importancia de aspectos como la psicología del color, el diseño UX y las tipografías para mejorar la experiencia del usuario en los sitios web 🚀.<br/>
